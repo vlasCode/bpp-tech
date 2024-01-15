@@ -1,0 +1,18 @@
+{
+  "name": "bpp-sqa-assessment-1",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "20.8.10",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "@types/faker": "^6.6.9",
+    "chance": "^1.1.11",
+    "faker": "^6.6.6"
+  }
+}

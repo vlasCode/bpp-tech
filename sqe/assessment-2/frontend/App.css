@@ -1,0 +1,8 @@
+.add-new-task {
+  height: inherit !important;
+  overflow: hidden;
+  padding-top: 0.75em !important;
+  padding-bottom: 0.75em !important;
+  padding-left: 2.50em !important;
+  padding-right: 3.80em !important;
+}
